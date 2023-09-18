@@ -11,19 +11,25 @@ Clone the repo
   cd animatromo-game-server
 ```
 
+<br>
+
 Run the server
 ```bash
   node server.js <port>
 ```
 
+<br>
+
 #### Tunneling
 The game uses TLS to connect securely to your game server and will refuse an insecure connection.<br>
-Use a service like **[ngrok](https://ngrok.com/)** to provide a secure tunnel, with the added bonus of playing with your friends across the internet!<br><br>
+Use a service like **[ngrok](https://ngrok.com/)** to provide a secure tunnel, with the added bonus of playing with your friends across the internet!<br>
 
 Set up **ngrok** and start the tunnel
 ```bash
   ngrok http <port>
 ```
+
+<br>
 
 #### Connecting to the server
 In the **server address** field, input the url of your server.
