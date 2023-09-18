@@ -1,2 +1,2 @@
-# animatromo-game-server
-The server for Animatromo Game
+# Animatromo Game Server
+The server for [Animatromo Game](https://animatromo-game.netlify.app).
