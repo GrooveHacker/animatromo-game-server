@@ -11,8 +11,6 @@ Clone the repo
   cd animatromo-game-server
 ```
 
-<br>
-
 Run the server
 ```bash
   node server.js <port>
