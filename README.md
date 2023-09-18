@@ -20,7 +20,7 @@ Run the server
 The game uses TLS to connect securely to your game server and will refuse an insecure connection.<br>
 Use a service like **[ngrok](https://ngrok.com/)** to provide a secure tunnel, with the added bonus of playing with your friends across the internet!<br><br>
 
-After you have set up **ngrok**, start the tunnel
+Set up **ngrok** and start the tunnel
 ```bash
   ngrok http <port>
 ```
