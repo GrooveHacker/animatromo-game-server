@@ -17,7 +17,7 @@ Run the server
 ```
 
 #### Tunneling
-The game uses TLS to connect securely to your game server, and will refuse an insecure connection.<br>
+The game uses TLS to connect securely to your game server and will refuse an insecure connection.<br>
 Use a service like **[ngrok](https://ngrok.com/)** to provide a secure connection, with the added bonus of playing with your friends across the internet!
 
 #### Connecting to the server
